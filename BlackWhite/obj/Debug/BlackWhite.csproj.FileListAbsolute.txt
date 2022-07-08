@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\BlackWhite\obj\Debug\BlackWhite.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\BlackWhite\obj\Debug\BlackWhite.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\BlackWhite\obj\Debug\BlackWhite.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\BlackWhite\obj\Debug\BlackWhite.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\BlackWhite\bin\Debug\BlackWhite.exe.config
+C:\Users\Пользователь\source\repos\BlackWhite\bin\Debug\BlackWhite.exe
+C:\Users\Пользователь\source\repos\BlackWhite\bin\Debug\BlackWhite.pdb
+C:\Users\Пользователь\source\repos\BlackWhite\obj\Debug\BlackWhite.exe
+C:\Users\Пользователь\source\repos\BlackWhite\obj\Debug\BlackWhite.pdb
+C:\Users\Пользователь\source\repos\BlackWhite\obj\Debug\BlackWhite.Form1.resources
